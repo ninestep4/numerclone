@@ -1,0 +1,36 @@
+.headerbi_area{     
+    text-align: center;   
+    color:#000000;
+text-shadow:0 0 1px #ffffff,
+ 0 0 2px #ffffff, 
+ 0 0 3px #ffffff, 
+ 0 0 4px #ff00de, 
+ 0 0 7px #ff00de, 
+ 0 0 8px #ff00de, 
+ 0 0 10px #ff00de, 
+ 0 0 15px #ff00de;
+ font-size: 25px;
+   
+}
+.mt-4{
+    background-color: coral;
+    font-size: 20px;
+}
+.header_area1{
+    text-align: center;   
+    color:#000000;
+text-shadow:0 0 1px #ffffff,
+ 0 0 2px #ffffff, 
+ 0 0 3px #ffffff, 
+ 0 0 4px #ff00de, 
+ 0 0 7px #ff00de, 
+ 0 0 8px #ff00de, 
+ 0 0 10px #ff00de, 
+ 0 0 15px #ff00de;
+ font-size: 25px;
+}
+.mt-{
+    background-color: coral;
+    font-size: 20px;
+}
+
